@@ -1,6 +1,6 @@
 # Bacteria_image_classification_challenge
 
-Classification of bacteria images using CNNs.
+Classification of bacteria images using VGG-13.
 
 chl3.ipynb --> main data wrangling/preparation and calssification file.
 
